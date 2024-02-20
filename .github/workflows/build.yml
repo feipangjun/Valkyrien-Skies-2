@@ -1,5 +1,5 @@
 name: Build
-on:
+on:  
   push:
     branches:
       - '1.18.x/*'
